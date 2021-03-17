@@ -1,2 +1,2 @@
 # Jogo adivinhação, criado em C.
-O jogo contém somente 3 tentativas, onde o usuário deve acertar o número secreto.
+No jogo o usuário deve acertar o número secreto aleatório, que foi gerado pela máquina.
