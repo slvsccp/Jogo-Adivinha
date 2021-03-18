@@ -1,5 +1,5 @@
 # Jogo da adivinhação!
-No jogo o usuário deve acertar o número secreto aleatório, que foi gerado pela máquina.
+No jogo o usuário deve acertar o número secreto aleatório, que foi gerado pela máquina. A cada nova rodada o número muda para outro aleatório.
 
 ## Níveis
 <p>O jogo contém três níveis de dificuldades:</p>
